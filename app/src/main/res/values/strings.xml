@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="digit">0</string>
+    <string name="resetValue"><b>CLR</b></string>
+    <string name="delete"><b>DEL</b></string>
+
+
+    <string name="zero"><b>0</b></string>
+    <string name="one"><b>1</b></string>
+    <string name="two"><b>2</b></string>
+    <string name="three"><b>3</b></string>
+    <string name="four"><b>4</b></string>
+    <string name="five"><b>5</b></string>
+    <string name="six"><b>6</b></string>
+    <string name="seven"><b>7</b></string>
+    <string name="eight"><b>8</b></string>
+    <string name="nine"><b>9</b></string>
+    <string name="dot"><b>.</b></string>
+
+    <string name="plus"><b>\u002B</b></string>
+    <string name="minus"><b>\u2212</b></string>
+    <string name="mul"><b>\u2715 </b></string>
+    <string name="div"><b>\u00F7</b></string>
+
+    <string name="equals"><b>=</b></string>
+    <string name="neg"><b>+/-</b></string>
+
+</resources>
